@@ -1,0 +1,2 @@
+name = ritaj
+print(name)
